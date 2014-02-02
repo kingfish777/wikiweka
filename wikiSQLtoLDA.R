@@ -1,5 +1,4 @@
 
-
 setwd("/home/propp/Desktop/corpora/bigoil")
 
 # retrieve data from redacted_war_diary_irq and put into individual text files
