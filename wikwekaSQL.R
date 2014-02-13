@@ -1,4 +1,3 @@
-
 library(RMySQL)
 library(tm)
 
@@ -17,6 +16,7 @@ nr = as.numeric(nrows)
 
 nr = 20
 
+#rewrite as *apply
 for (i in 1:nr) { 
  mydata = dbSendQuery(con, 'SELECT summary FROM redacted_war_diary_irq rwdi WHERE rwdi.id = "i"')
  data = fetch(mydata, n=1)
