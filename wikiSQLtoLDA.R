@@ -1,4 +1,4 @@
-# work in progress --- this is a very old project from 2010
+# work in progress --- this is a very old project from 2009-2010
 # retrieve data from redacted_war_diary_irq and put into individual text files
 # divide and conquer
 
